@@ -1,0 +1,25 @@
+.userName{
+    width: 200px;
+    height: 54px;
+    /*font-size: 25px;*/
+    color: #CAB362;
+    text-align: center;
+    line-height: 54px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.userIcon{
+    width: 24px;
+    height: 36px;
+    background: url("../../images/icons/golden_person.png") 50% 50% / contain no-repeat;
+}
+.userBlock{
+    width: 200px;
+    height: 54px;
+}
